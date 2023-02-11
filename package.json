@@ -1,0 +1,15 @@
+{
+  "name": "talleruno",
+  "version": "1.0.0",
+  "description": "construccion de 2 entidades que se relacionan",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "computador",
+    "marca"
+  ],
+  "author": "paula andrea cano",
+  "license": "ISC"
+}
